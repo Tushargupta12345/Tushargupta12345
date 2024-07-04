@@ -1,9 +1,11 @@
 <h1 align="center">Hi there👋, I'm Tushar Gupta</h1>
-<h3 align="center">A passionate About Technology</h3>
+<h3 align="center">
+I'm a tech enthusiast who enjoys diving into the world of innovation and creativity.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushargupta12345&label=Profile%20views&color=0e75b6&style=flat" alt="tushargupta12345" /> </p>
 
-- 🌱 I’m currently learning **React API,Node.js, DSA, Competitive Programming**
+- 🌱 I’m currently learning **React API, DSA, Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tushargupta12345](https://github.com/Tushargupta12345)
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **tushargupta17042003@gmail.com**
 
-- ⚡ Fun fact **I love watching animes🍿**
+- 💡 Fun fact **I love watching animes🍿**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
